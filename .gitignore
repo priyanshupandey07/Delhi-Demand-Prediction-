@@ -1,3 +1,10 @@
-git add .gitignore
-git commit -m "Add .gitignore"
-git push
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env/
+*.sqlite3
+.DS_Store
+.ipynb_checkpoints/

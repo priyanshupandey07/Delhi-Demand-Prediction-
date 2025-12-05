@@ -1,0 +1,10 @@
+streamlit
+streamlit-lottie
+streamlit-option-menu
+scikit-learn
+pandas
+torch
+joblib
+pillow
+numpy
+openpyxl  # For reading Excel files
